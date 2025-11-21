@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdarg.h>
 void display (int count ,...)
 {
@@ -14,4 +14,4 @@ void display (int count ,...)
 void main()
 {
     display(5,45,23,34,67,89);
-} 
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
